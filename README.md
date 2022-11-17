@@ -17,8 +17,8 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ```
-Developed by: Vineesh M
-Register no: 212221230122
+Developed by: A K MOHAN RAJ 
+Register no: 212221230064
 ```
 # CODE
 ```python
